@@ -6,13 +6,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aibax04/snake-fun/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aibax04&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aibax04&theme=tokyonight" alt="Total Contributions" />
-</p>
+
+
 
 
 
