@@ -1,5 +1,4 @@
-## 🐍 Contribution Snake
-
+🐍 Watch this snake eat my commits!
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aibax04/snake-fun/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aibax04/snake-fun/output/github-contribution-grid-snake.svg">
