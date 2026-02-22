@@ -7,14 +7,9 @@
 </picture>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aibax04&show_icons=true&theme=tokyonight" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibax04&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aibax04&theme=tokyonight" />
 </p>
 
-### Hi there, I'm [Aibad] 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning **[Something Cool]**
-- ⚡ Fun fact: **I code faster when listening to [Music Genre]**
 
 
