@@ -11,3 +11,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibax04&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+### Hi there, I'm [Aibad] 👋
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning **[Something Cool]**
+- ⚡ Fun fact: **I code faster when listening to [Music Genre]**
+
+
